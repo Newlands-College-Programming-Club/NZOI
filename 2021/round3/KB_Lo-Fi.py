@@ -1,3 +1,5 @@
+# https://train.nzoi.org.nz/problems/1225
+
 revenue = 0
 
 N = int(input())

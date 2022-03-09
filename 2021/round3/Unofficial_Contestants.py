@@ -1,3 +1,5 @@
+# https://train.nzoi.org.nz/problems/1222
+
 N = int(input())
 M = int(input())
 
